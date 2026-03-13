@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+ALVIN-YANG!+%F0%9F%91%8B;Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+ALVIN-YANG!+%F0%9F%91%8B;Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -52,5 +52,3 @@ I love contributing to the open-source community! Here are some of the recent pr
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
-
-</div>
