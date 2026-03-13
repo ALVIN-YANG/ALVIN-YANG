@@ -4,6 +4,16 @@
 
 <br/>
 
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on building amazing open-source projects like **zeroclaw** and **openclaw**.
+- 🌱 I’m currently learning advanced systems programming and machine learning.
+- 👯 I’m looking to collaborate on interesting open-source AI and robotics projects.
+- 💬 Ask me about Python, Rust, TypeScript, and open-source development.
+- 📫 How to reach me: Drop a message in my repo's discussions or issues!
+
+<br/>
+
 ### 🛠️ Languages & Tools
 
 <p align="center">
