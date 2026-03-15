@@ -1,64 +1,84 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+ALVIN-YANG!+%F0%9F%91%8B;Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
-
-<br/>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on building amazing open-source projects like **zeroclaw** and **openclaw**.
-- 🌱 I’m currently learning advanced systems programming and machine learning.
-- 👯 I’m looking to collaborate on interesting open-source AI and robotics projects.
-- 💬 Ask me about Python, Rust, TypeScript, and open-source development.
-- 📫 How to reach me: Drop a message in my repo's discussions or issues!
-
-<br/>
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALVIN-YANG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Open+Source+Contributor;Building+the+Future+of+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALVIN-YANG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/browser-use/browser-use/pull/4360">
+    <img src="https://img.shields.io/badge/Latest-PR: browser--use-Windows+compatibility-blue?style=flat-square&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Followers-28-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRs-16+-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-65-red?style=flat-square" />
+</p>
+
+---
+
+### 🤖 About Me
+
+- 🔥 **AI Agent Developer** @ HooRii Technology
+- 🚀 Building autonomous AI agents and open-source infrastructure
+- 🌍 Based in **Hangzhou, China**
+- 💡 Focus: **Agentic AI**, **Rust**, **Python**, **TypeScript**
+
+### 🎯 Core Expertise
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,react,nodejs,docker,kubernetes,aws,git,linux&perline=10&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALVIN-YANG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVIN-YANG&layout=donut&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVIN-YANG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALVIN-YANG&theme=radical&hide_border=true&fire=FF6B6B&ring=00D9FF" alt="GitHub Streak" />
 </p>
 
-<br/>
+---
 
-### 🌟 Recent Open Source Contributions
+### 🏆 Achievements
 
-I love contributing to the open-source community! Here are some of the recent projects I've been involved with:
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" title="Pull Shark x2" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" title="Pair Extraordinaire x2" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" title="YOLO" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" title="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="70" title="Arctic Code Vault" />
+  <img src="https://github.githubassets.com/assets/developer-program-default-0e4d3flc6e73.png" width="70" title="GitHub Developer Program" />
+</p>
 
-[![zeroclaw](https://github-readme-stats.vercel.app/api/pin/?username=ALVIN-YANG&repo=zeroclaw&theme=tokyonight&hide_border=true)](https://github.com/ALVIN-YANG/zeroclaw)
-[![openclaw](https://github-readme-stats.vercel.app/api/pin/?username=ALVIN-YANG&repo=openclaw&theme=tokyonight&hide_border=true)](https://github.com/ALVIN-YANG/openclaw)
-[![agency-agents](https://github-readme-stats.vercel.app/api/pin/?username=ALVIN-YANG&repo=agency-agents&theme=tokyonight&hide_border=true)](https://github.com/ALVIN-YANG/agency-agents)
+---
 
-<br/>
+### 🌟 Featured Open Source Contributions
+
+| Project | Stars | Contribution |
+|---------|-------|--------------|
+| [browser-use](https://github.com/browser-use/browser-use/pull/4360) | 81k+ | Windows compatibility fix for tunnel.py |
+| [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 27k+ | Rust AI Agent infrastructure |
+| [openclaw](https://github.com/openclaw/openclaw) | 314k+ | TypeScript AI Agent framework |
+| [agency-agents](https://github.com/msitarzewski/agency-agents) | 45k+ | AI agent configurations |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182k+ | Autonomous AI agents |
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ALVIN-YANG">
+    <img src="https://img.shields.io/badge/GitHub-ALVIN--YANG-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://ilovestudy.club">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=web" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>🤝 Open to collaborations on AI Agent infrastructure, autonomous systems, and open-source projects</i>
 </p>
