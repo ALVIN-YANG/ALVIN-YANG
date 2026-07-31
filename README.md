@@ -1,33 +1,34 @@
-# Hi there, I'm AmChocolate 👋
+Hey, I'm **Alvin Yang** — an engineer in Hangzhou building practical AI agents, real-time voice systems, and developer infrastructure.
 
-<p align="left">
-  <a href="https://github.com/ALVIN-YANG"><img src="https://img.shields.io/badge/GitHub-ALVIN--YANG-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://ilovestudy.club"><img src="https://img.shields.io/badge/Blog-ilovestudy.club-0ea5e9?style=for-the-badge&logo=rss" /></a>
-  <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-22c55e?style=for-the-badge" />
-</p>
+I care about systems that survive real traffic, real devices, and real failure modes. I share the engineering notes behind that work at [ilovestudy.club](https://ilovestudy.club).
 
-I build practical AI assistants and developer tools, with a focus on **automation**, **performance**, and **production deployment**.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## What I am focused on
-- Building autonomous AI workflows for real-world tasks
-- Creating high-performance tooling (Go / Rust / TypeScript)
-- Shipping developer experience improvements for teams
+**Now shipping**
 
-## Featured Projects
-- [openclaw/openclaw](https://github.com/openclaw/openclaw): Personal AI assistant, cross-platform
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw): Tiny and fast automation runtime
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Autonomous assistant infrastructure
-- [senix](https://github.com/ALVIN-YANG/senix): Next-generation Nginx control plane and API gateway
+• [Senix](https://github.com/ALVIN-YANG/senix) — Nginx control plane and API gateway<br>
+• [Unified Web Search](https://github.com/ALVIN-YANG/unified-web-search) — multi-provider search for AI agents<br>
+• [Alvin Yang Notes](https://ilovestudy.club) — field notes on agents, architecture, security, and operations
 
-## Tech Stack
-`TypeScript` `Go` `Rust` `Python` `JavaScript` `Swift` `Objective-C`
+</td>
+<td width="50%" valign="top">
 
-## GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ALVIN-YANG&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVIN-YANG&layout=compact&hide_border=true" />
-</p>
+**Recent writing**
 
-## Connect
-- Blog: https://ilovestudy.club
-- GitHub: https://github.com/ALVIN-YANG
+<!-- recent_posts starts -->
+• [AI Agent 安全工程：真正危险的是它能继续行动](https://ilovestudy.club/ai/agent-security-engineering/) — 2026-07-31<br>
+• [AI Agent 怎么做评测：别只看最后一句回答](https://ilovestudy.club/ai/agent-evaluation-observability/) — 2026-07-31<br>
+• [Context Engineering 怎么做：别把所有信息都塞给模型](https://ilovestudy.club/ai/context-engineering-guide/) — 2026-07-31<br>
+• [长任务 Agent 怎么跑稳：状态机、Checkpoint 与恢复](https://ilovestudy.club/ai/durable-agent-task-runtime/) — 2026-07-31<br>
+• [周报 2026-07-20 ~ 2026-07-26](https://ilovestudy.club/ai-news/2026-07-20-weekly/) — 2026-07-26
+<!-- recent_posts ends -->
+
+</td>
+</tr>
+</table>
+
+**Current focus:** production AI agents · realtime voice · MQTT devices · backend reliability
+
+**Elsewhere:** [Writing](https://ilovestudy.club) · [Projects](https://github.com/ALVIN-YANG?tab=repositories) · [Email](mailto:ylq.win@gmail.com)
