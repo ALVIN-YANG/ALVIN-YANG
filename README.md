@@ -19,9 +19,9 @@ I care about systems that survive real traffic, real devices, and real failure m
 
 <!-- recent_posts starts -->
 • [AI Agent 安全工程：真正危险的是它能继续行动](https://ilovestudy.club/ai/agent-security-engineering/) — 2026-07-31<br>
-• [AI Agent 怎么做评测：别只看最后一句回答](https://ilovestudy.club/ai/agent-evaluation-observability/) — 2026-07-31<br>
 • [Context Engineering 怎么做：别把所有信息都塞给模型](https://ilovestudy.club/ai/context-engineering-guide/) — 2026-07-31<br>
 • [长任务 Agent 怎么跑稳：状态机、Checkpoint 与恢复](https://ilovestudy.club/ai/durable-agent-task-runtime/) — 2026-07-31<br>
+• [生产级 Agent Tool 怎么设计：能调用，只是第一步](https://ilovestudy.club/ai/production-agent-tool-design/) — 2026-07-31<br>
 • [周报 2026-07-20 ~ 2026-07-26](https://ilovestudy.club/ai-news/2026-07-20-weekly/) — 2026-07-26
 <!-- recent_posts ends -->
 
