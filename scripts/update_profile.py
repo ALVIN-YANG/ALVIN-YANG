@@ -15,7 +15,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
-SITE = "https://ilovestudy.club/"
+SITE = "https://blog.mlxb.cc/"
 USER_AGENT = "ALVIN-YANG-profile/1.0 (+https://github.com/ALVIN-YANG)"
 START = "<!-- recent_posts starts -->"
 END = "<!-- recent_posts ends -->"
