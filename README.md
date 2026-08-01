@@ -8,7 +8,7 @@ I care about systems that survive real traffic, real devices, and real failure m
 
 **Now shipping**
 
-• [TaskMode](https://github.com/ALVIN-YANG/taskmode) — adaptive workflows for capable coding agents<br>
+• [AY Skills](https://github.com/ALVIN-YANG/ay-skills) — lightweight, human-approved workflows for advanced AI coding agents<br>
 • [Senix](https://github.com/ALVIN-YANG/senix) — Nginx control plane and API gateway<br>
 • [Unified Web Search](https://github.com/ALVIN-YANG/unified-web-search) — multi-provider search for AI agents<br>
 • [Alvin Yang Notes](https://blog.mlxb.cc) — field notes on agents, architecture, security, and operations
