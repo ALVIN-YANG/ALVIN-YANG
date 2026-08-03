@@ -19,11 +19,11 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [周报 2026-07-20 ~ 2026-07-26](https://blog.mlxb.cc/ai-news/2026-07-20-weekly/) — 2026-07-26<br>
+• [周报 2026-07-27 ~ 2026-08-02](https://blog.mlxb.cc/ai-news/2026-07-27-weekly/) — 2026-08-02<br>
+• [什么时候不该用 AI Agent：先和普通代码、Workflow 比一遍](https://blog.mlxb.cc/ai/when-not-to-use-ai-agent/) — 2026-07-28<br>
 • [AI Coding Skills 怎么选：别把所有插件都装上](https://blog.mlxb.cc/ai-workflow/ai-coding-skills-selection-guide/) — 2026-07-24<br>
 • [OpenClaw 深度实践](https://blog.mlxb.cc/claw/openclaw/) — 2026-07-18<br>
-• [从 Demo 到服务：一个可落地的 RAG 知识库组件实战](https://blog.mlxb.cc/ai/rag-knowledge-base-component/) — 2026-06-28<br>
-• [CC Switch：五大 AI 编程工具的统一管理面板](https://blog.mlxb.cc/ai-workflow/9-cc-switch-unified-manager/) — 2026-06-26
+• [实时语音 Agent 怎么做：延迟、打断和状态一致性](https://blog.mlxb.cc/ai/realtime-voice-agent-engineering/) — 2026-07-13
 <!-- recent_posts ends -->
 
 </td>
