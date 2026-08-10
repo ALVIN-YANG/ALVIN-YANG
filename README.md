@@ -19,11 +19,11 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09<br>
 • [Matt Pocock Skills：让 AI 编程回归工程本质的组合技](https://blog.mlxb.cc/ai-workflow/11-mattpocock-skills-deep-dive/) — 2026-08-06<br>
 • [MCP 2026-07-28：从‘有状态会话’走向可横向扩展的 Agent 协议](https://blog.mlxb.cc/network/mcp-2026-07-28-core-changes/) — 2026-07-30<br>
-• [什么时候不该用 AI Agent：先和普通代码、Workflow 比一遍](https://blog.mlxb.cc/ai/when-not-to-use-ai-agent/) — 2026-07-28<br>
 • [AI Coding Skills 怎么选：别把所有插件都装上](https://blog.mlxb.cc/ai-workflow/ai-coding-skills-selection-guide/) — 2026-07-24<br>
-• [周报 2026-07-06 ~ 2026-07-12](https://blog.mlxb.cc/ai-news/2026-07-06-weekly/) — 2026-07-12
+• [OpenClaw 深度实践](https://blog.mlxb.cc/claw/openclaw/) — 2026-07-18
 <!-- recent_posts ends -->
 
 </td>
