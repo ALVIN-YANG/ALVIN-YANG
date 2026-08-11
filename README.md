@@ -20,10 +20,10 @@ I care about systems that survive real traffic, real devices, and real failure m
 
 <!-- recent_posts starts -->
 • [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09<br>
+• [企业内部知识库的 RAG 落地记录](https://blog.mlxb.cc/ai/rag-knowledge-base-component/) — 2026-08-08<br>
+• [RAG 技术全景与选型](https://blog.mlxb.cc/ai/rag-primer/) — 2026-08-06<br>
 • [Matt Pocock Skills：让 AI 编程回归工程本质的组合技](https://blog.mlxb.cc/ai-workflow/11-mattpocock-skills-deep-dive/) — 2026-08-06<br>
-• [MCP 2026-07-28：从‘有状态会话’走向可横向扩展的 Agent 协议](https://blog.mlxb.cc/network/mcp-2026-07-28-core-changes/) — 2026-07-30<br>
-• [AI Coding Skills 怎么选：别把所有插件都装上](https://blog.mlxb.cc/ai-workflow/ai-coding-skills-selection-guide/) — 2026-07-24<br>
-• [OpenClaw 深度实践](https://blog.mlxb.cc/claw/openclaw/) — 2026-07-18
+• [MCP 2026-07-28：从‘有状态会话’走向可横向扩展的 Agent 协议](https://blog.mlxb.cc/network/mcp-2026-07-28-core-changes/) — 2026-07-30
 <!-- recent_posts ends -->
 
 </td>
