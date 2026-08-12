@@ -19,11 +19,11 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [Vibe Coding 心得，AI 像一门更高级的编程语言](https://blog.mlxb.cc/ai-workflow/12-vibe-coding-software-engineering-notes/) — 2026-08-11<br>
 • [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09<br>
-• [企业内部知识库的 RAG 落地记录](https://blog.mlxb.cc/ai/rag-knowledge-base-component/) — 2026-08-08<br>
-• [RAG 技术全景与选型](https://blog.mlxb.cc/ai/rag-primer/) — 2026-08-06<br>
 • [Matt Pocock Skills：让 AI 编程回归工程本质的组合技](https://blog.mlxb.cc/ai-workflow/11-mattpocock-skills-deep-dive/) — 2026-08-06<br>
-• [MCP 2026-07-28：从‘有状态会话’走向可横向扩展的 Agent 协议](https://blog.mlxb.cc/network/mcp-2026-07-28-core-changes/) — 2026-07-30
+• [MCP 2026-07-28：从‘有状态会话’走向可横向扩展的 Agent 协议](https://blog.mlxb.cc/network/mcp-2026-07-28-core-changes/) — 2026-07-30<br>
+• [什么时候不该用 AI Agent：先和普通代码、Workflow 比一遍](https://blog.mlxb.cc/ai/when-not-to-use-ai-agent/) — 2026-07-28
 <!-- recent_posts ends -->
 
 </td>
