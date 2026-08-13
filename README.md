@@ -19,11 +19,11 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [Vibe Coding 心得，AI 像一门更高级的编程语言](https://blog.mlxb.cc/ai-workflow/12-vibe-coding-software-engineering-notes/) — 2026-08-11<br>
-• [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09<br>
-• [Matt Pocock Skills：让 AI 编程回归工程本质的组合技](https://blog.mlxb.cc/ai-workflow/11-mattpocock-skills-deep-dive/) — 2026-08-06<br>
-• [MCP 2026-07-28：从‘有状态会话’走向可横向扩展的 Agent 协议](https://blog.mlxb.cc/network/mcp-2026-07-28-core-changes/) — 2026-07-30<br>
-• [什么时候不该用 AI Agent：先和普通代码、Workflow 比一遍](https://blog.mlxb.cc/ai/when-not-to-use-ai-agent/) — 2026-07-28
+• [OpenClaw 深度实践](https://blog.mlxb.cc/claw/openclaw/) — 2026-08-13<br>
+• [面试官追问 OpenClaw，Agent 忙着时怎样处理新消息](https://blog.mlxb.cc/claw/openclaw/8-agent-input-queue-modes/) — 2026-08-13<br>
+• [我怎样做上下文工程，兼顾实际效果和成本](https://blog.mlxb.cc/ai-workflow/13-context-engineering-effect-cost-notes/) — 2026-08-12<br>
+• [拆解 Codex 内置 Skill Creator，怎样写出可靠的 Skill](https://blog.mlxb.cc/ai-workflow/14-codex-skill-creator-deep-dive/) — 2026-08-12<br>
+• [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09
 <!-- recent_posts ends -->
 
 </td>
