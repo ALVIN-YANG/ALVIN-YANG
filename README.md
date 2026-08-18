@@ -19,10 +19,10 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [怎样把 Prompt 写成 Agent 真能执行的任务](https://blog.mlxb.cc/ai-workflow/16-prompt-task-contract-practice/) — 2026-08-17<br>
 • [Agent 怎样防 Prompt Injection](https://blog.mlxb.cc/ai/agent-prompt-injection-defense/) — 2026-08-16<br>
 • [iOS 内购订阅与 Credits 扣减生产开发全流程](https://blog.mlxb.cc/architecture/ios-subscription-payment-backend-practice/) — 2026-08-15<br>
 • [Codex 长任务轮询为什么会多烧 Token](https://blog.mlxb.cc/ai-workflow/15-codex-async-wait-token-cost/) — 2026-08-14<br>
-• [OpenClaw 深度实践](https://blog.mlxb.cc/claw/openclaw/) — 2026-08-13<br>
 • [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09
 <!-- recent_posts ends -->
 
