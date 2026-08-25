@@ -19,10 +19,10 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [两台虚拟机怎样做平滑发布](https://blog.mlxb.cc/ops/spring-boot-vm-graceful-rolling-deployment/) — 2026-08-24<br>
 • [ssh -R 怎么把内网服务接到公网](https://blog.mlxb.cc/network/ssh-reverse-port-forwarding/) — 2026-08-19<br>
 • [怎样把 Prompt 写成 Agent 真能执行的任务](https://blog.mlxb.cc/ai-workflow/16-prompt-task-contract-practice/) — 2026-08-17<br>
 • [Agent 怎样防 Prompt Injection](https://blog.mlxb.cc/ai/agent-prompt-injection-defense/) — 2026-08-16<br>
-• [iOS 内购订阅与 Credits 扣减生产开发全流程](https://blog.mlxb.cc/architecture/ios-subscription-payment-backend-practice/) — 2026-08-15<br>
 • [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09
 <!-- recent_posts ends -->
 
