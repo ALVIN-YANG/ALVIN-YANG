@@ -1,21 +1,22 @@
 #!/usr/bin/env python3
-"""Refresh the recent-writing block in the profile README."""
+"""Refresh the recent-writing block in the profile README from the blog RSS feed."""
 
 from __future__ import annotations
 
-from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
-from datetime import datetime
-from html.parser import HTMLParser
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 import re
-from urllib.parse import quote, urljoin, urlparse
+from urllib.parse import quote, urlparse
 from urllib.request import Request, urlopen
+import xml.etree.ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 SITE = "https://blog.mlxb.cc/"
+FEED = f"{SITE}rss.xml"
 USER_AGENT = "ALVIN-YANG-profile/1.0 (+https://github.com/ALVIN-YANG)"
 START = "<!-- recent_posts starts -->"
 END = "<!-- recent_posts ends -->"
@@ -28,85 +29,41 @@ class Post:
     updated: datetime
 
 
-class HomeLinksParser(HTMLParser):
-    def __init__(self) -> None:
-        super().__init__()
-        self.in_main = False
-        self.links: list[str] = []
-
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        values = dict(attrs)
-        if tag == "main":
-            self.in_main = True
-        elif self.in_main and tag == "a" and values.get("href"):
-            self.links.append(values["href"] or "")
-
-    def handle_endtag(self, tag: str) -> None:
-        if tag == "main":
-            self.in_main = False
-
-
-class PostParser(HTMLParser):
-    def __init__(self) -> None:
-        super().__init__()
-        self.in_title = False
-        self.title_parts: list[str] = []
-        self.updated_raw = ""
-
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        values = dict(attrs)
-        if tag == "title":
-            self.in_title = True
-        elif tag == "time" and values.get("datetime") and not self.updated_raw:
-            self.updated_raw = values["datetime"] or ""
-
-    def handle_endtag(self, tag: str) -> None:
-        if tag == "title":
-            self.in_title = False
-
-    def handle_data(self, data: str) -> None:
-        if self.in_title:
-            self.title_parts.append(data)
-
-
 def fetch(url: str) -> str:
     request = Request(url, headers={"User-Agent": USER_AGENT})
     with urlopen(request, timeout=20) as response:
         return response.read().decode("utf-8", errors="replace")
 
 
-def candidate_urls() -> list[str]:
-    parser = HomeLinksParser()
-    parser.feed(fetch(SITE))
-
-    excluded = {"/", "/about/", "/ai-news/", "/model-arena/"}
-    urls: list[str] = []
-    for href in parser.links:
-        url = urljoin(SITE, href)
-        parsed = urlparse(url)
-        if parsed.netloc != urlparse(SITE).netloc or parsed.path in excluded:
-            continue
-        if not parsed.path.endswith("/"):
-            continue
-        encoded_path = quote(parsed.path, safe="/%")
-        normalized = f"{parsed.scheme}://{parsed.netloc}{encoded_path}"
-        if normalized not in urls:
-            urls.append(normalized)
-    return urls[:80]
+def normalize_datetime(value: datetime) -> datetime:
+    if value.tzinfo is None:
+        value = value.replace(tzinfo=timezone.utc)
+    return value.astimezone(timezone.utc)
 
 
-def parse_post(url: str) -> Post | None:
-    try:
-        parser = PostParser()
-        parser.feed(fetch(url))
-        title = "".join(parser.title_parts).removesuffix(" | Alvin Yang").strip()
-        if not title or not parser.updated_raw:
-            return None
-        updated = datetime.fromisoformat(parser.updated_raw.replace("Z", "+00:00"))
-        return Post(title=title, url=url, updated=updated)
-    except Exception as error:
-        print(f"Skipping {url}: {error}")
+def normalize_post_url(value: str) -> str | None:
+    parsed = urlparse(value.strip())
+    if parsed.scheme not in {"http", "https"} or parsed.netloc != urlparse(SITE).netloc:
         return None
+    encoded_path = quote(parsed.path, safe="/%")
+    return f"{parsed.scheme}://{parsed.netloc}{encoded_path}"
+
+
+def parse_feed(xml: str) -> list[Post]:
+    root = ET.fromstring(xml)
+    posts: list[Post] = []
+    for item in root.findall("./channel/item"):
+        title = (item.findtext("title") or "").strip()
+        url = normalize_post_url(item.findtext("link") or "")
+        published = (item.findtext("pubDate") or "").strip()
+        if not title or not url or not published:
+            continue
+        try:
+            updated = normalize_datetime(parsedate_to_datetime(published))
+        except (TypeError, ValueError):
+            continue
+        posts.append(Post(title=title, url=url, updated=updated))
+    return posts
 
 
 def truncate(title: str, limit: int = 48) -> str:
@@ -120,10 +77,8 @@ def truncate(title: str, limit: int = 48) -> str:
 
 
 def select_posts(posts: list[Post]) -> list[Post]:
-    ordered = sorted(posts, key=lambda post: post.updated, reverse=True)
-    articles = [post for post in ordered if "/ai-news/" not in post.url][:4]
-    weekly = [post for post in ordered if "/ai-news/" in post.url][:1]
-    return sorted(articles + weekly, key=lambda post: post.updated, reverse=True)
+    ordered = sorted(posts, key=lambda post: normalize_datetime(post.updated), reverse=True)
+    return [post for post in ordered if "/ai-news/" not in post.url][:5]
 
 
 def render(posts: list[Post]) -> str:
@@ -146,8 +101,7 @@ def update_readme(block: str) -> None:
 
 
 def main() -> None:
-    with ThreadPoolExecutor(max_workers=8) as executor:
-        posts = [post for post in executor.map(parse_post, candidate_urls()) if post]
+    posts = parse_feed(fetch(FEED))
     selected = select_posts(posts)
     if len(selected) < 3:
         raise RuntimeError(f"Expected at least 3 posts, found {len(selected)}")

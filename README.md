@@ -19,11 +19,11 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [两台虚拟机怎样做平滑发布](https://blog.mlxb.cc/ops/spring-boot-vm-graceful-rolling-deployment/) — 2026-08-24<br>
-• [ssh -R 怎么把内网服务接到公网](https://blog.mlxb.cc/network/ssh-reverse-port-forwarding/) — 2026-08-19<br>
-• [怎样把 Prompt 写成 Agent 真能执行的任务](https://blog.mlxb.cc/ai-workflow/16-prompt-task-contract-practice/) — 2026-08-17<br>
-• [Agent 怎样防 Prompt Injection](https://blog.mlxb.cc/ai/agent-prompt-injection-defense/) — 2026-08-16<br>
-• [周报 2026-08-03 ~ 2026-08-09](https://blog.mlxb.cc/ai-news/2026-08-03-weekly/) — 2026-08-09
+• [多智能体架构选型](https://blog.mlxb.cc/ai/multi-agent-architecture-selection/) — 2026-09-15<br>
+• [Agent 运行环境怎么选：本机、云端、边缘与沙箱的取舍](https://blog.mlxb.cc/ai/agent-runtime-environments/) — 2026-09-14<br>
+• [Agent 感知环境变化，怎样用好 LLM 缓存](https://blog.mlxb.cc/ai/agent-environment-awareness-llm-cache/) — 2026-09-09<br>
+• [服务重启后，Agent 怎么记得前文并接着做](https://blog.mlxb.cc/ai/agent-context-persistence-recovery/) — 2026-09-09<br>
+• [RAG 元数据过滤，先排除不适用的资料](https://blog.mlxb.cc/ai/rag-metadata-filtering/) — 2026-09-09
 <!-- recent_posts ends -->
 
 </td>
