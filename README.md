@@ -19,7 +19,7 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [多智能体架构选型](https://blog.mlxb.cc/ai/multi-agent-architecture-selection/) — 2026-09-15<br>
+• [多智能体架构选型](https://blog.mlxb.cc/ai/multi-agent-architecture-selection/) — 2026-09-18<br>
 • [Agent 运行环境怎么选：本机、云端、边缘与沙箱的取舍](https://blog.mlxb.cc/ai/agent-runtime-environments/) — 2026-09-14<br>
 • [Agent 感知环境变化，怎样用好 LLM 缓存](https://blog.mlxb.cc/ai/agent-environment-awareness-llm-cache/) — 2026-09-09<br>
 • [服务重启后，Agent 怎么记得前文并接着做](https://blog.mlxb.cc/ai/agent-context-persistence-recovery/) — 2026-09-09<br>
