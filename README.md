@@ -19,11 +19,11 @@ I care about systems that survive real traffic, real devices, and real failure m
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [AI 工程面试：模型会犯错，项目怎么做可靠](https://blog.mlxb.cc/ai/ai-engineering-interview-reliable-projects/) — 2026-10-09<br>
+• [Hindsight：给 Agent 接上长期记忆](https://blog.mlxb.cc/ai/hindsight-agent-memory/) — 2026-10-08<br>
 • [代码图片生成器](https://blog.mlxb.cc/tools/code-image/) — 2026-09-20<br>
 • [多智能体架构选型](https://blog.mlxb.cc/ai/multi-agent-architecture-selection/) — 2026-09-18<br>
-• [Agent 运行环境怎么选：本机、云端、边缘与沙箱的取舍](https://blog.mlxb.cc/ai/agent-runtime-environments/) — 2026-09-14<br>
-• [Agent 感知环境变化，怎样用好 LLM 缓存](https://blog.mlxb.cc/ai/agent-environment-awareness-llm-cache/) — 2026-09-09<br>
-• [服务重启后，Agent 怎么记得前文并接着做](https://blog.mlxb.cc/ai/agent-context-persistence-recovery/) — 2026-09-09
+• [Agent 运行环境怎么选：本机、云端、边缘与沙箱的取舍](https://blog.mlxb.cc/ai/agent-runtime-environments/) — 2026-09-14
 <!-- recent_posts ends -->
 
 </td>
