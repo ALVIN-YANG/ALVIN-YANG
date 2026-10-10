@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [Jev：决策模型与 API 选型](https://blog.mlxb.cc/ai/jev-decision-models/) — 2026-10-10<br>
 • [AI 工程面试：模型会犯错，项目怎么做可靠](https://blog.mlxb.cc/ai/ai-engineering-interview-reliable-projects/) — 2026-10-09<br>
 • [Hindsight：给 Agent 接上长期记忆](https://blog.mlxb.cc/ai/hindsight-agent-memory/) — 2026-10-08<br>
 • [代码图片生成器](https://blog.mlxb.cc/tools/code-image/) — 2026-09-20<br>
-• [多智能体架构选型](https://blog.mlxb.cc/ai/multi-agent-architecture-selection/) — 2026-09-18<br>
-• [Agent 运行环境怎么选：本机、云端、边缘与沙箱的取舍](https://blog.mlxb.cc/ai/agent-runtime-environments/) — 2026-09-14
+• [多智能体架构选型](https://blog.mlxb.cc/ai/multi-agent-architecture-selection/) — 2026-09-18
 <!-- recent_posts ends -->
 
 </td>
