@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [Agent 运行环境怎么选：本机、云端、边缘与沙箱的取舍](https://blog.mlxb.cc/ai/agent-runtime-environments/) — 2026-10-11<br>
-• [RAG 技术全景与选型](https://blog.mlxb.cc/ai/rag-primer/) — 2026-10-11<br>
-• [Agent 怎样防 Prompt Injection](https://blog.mlxb.cc/ai/agent-prompt-injection-defense/) — 2026-10-11<br>
-• [AI Agent 怎么做评测：别只看最后一句回答](https://blog.mlxb.cc/ai/agent-evaluation-observability/) — 2026-10-11<br>
-• [AI Agent 记忆系统设计：工作上下文、跨会话记忆与执行事实](https://blog.mlxb.cc/ai/agent-memory-system-design/) — 2026-10-11
+• [AI Agent 怎么做评测：别只看最后一句回答](https://blog.mlxb.cc/ai/agent-evaluation-observability/) — 2026-10-12<br>
+• [AI Agent 记忆系统设计：工作上下文、跨会话记忆与执行事实](https://blog.mlxb.cc/ai/agent-memory-system-design/) — 2026-10-12<br>
+• [Agent 状态持久化与恢复：服务重启后怎样继续任务](https://blog.mlxb.cc/ai/agent-context-persistence-recovery/) — 2026-10-12<br>
+• [在线代码转图片：代码图片生成器](https://blog.mlxb.cc/tools/code-image/) — 2026-10-12<br>
+• [Langfuse 功能全景](https://blog.mlxb.cc/ai/langfuse-overview/) — 2026-10-12
 <!-- recent_posts ends -->
 
 </td>
