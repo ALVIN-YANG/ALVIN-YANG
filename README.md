@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [AI Agent 怎么做评测：别只看最后一句回答](https://blog.mlxb.cc/ai/agent-evaluation-observability/) — 2026-10-12<br>
-• [AI Agent 记忆系统设计：工作上下文、跨会话记忆与执行事实](https://blog.mlxb.cc/ai/agent-memory-system-design/) — 2026-10-12<br>
-• [Agent 状态持久化与恢复：服务重启后怎样继续任务](https://blog.mlxb.cc/ai/agent-context-persistence-recovery/) — 2026-10-12<br>
-• [在线代码转图片：代码图片生成器](https://blog.mlxb.cc/tools/code-image/) — 2026-10-12<br>
-• [Langfuse 功能全景](https://blog.mlxb.cc/ai/langfuse-overview/) — 2026-10-12
+• [隐私政策](https://blog.mlxb.cc/privacy/) — 2026-10-13<br>
+• [AI 工程问答：学习路线与公开资料](https://blog.mlxb.cc/interview/infra-roadmap/) — 2026-10-13<br>
+• [怎样评测 Agent？为什么最终答案正确还不够？](https://blog.mlxb.cc/interview/agent/agent-evaluation/) — 2026-10-13<br>
+• [Agent 反复调用工具、费用上涨，怎么限制和排查？](https://blog.mlxb.cc/interview/agent/budget-and-fallback/) — 2026-10-13<br>
+• [Context window、会话状态和长期记忆有什么区别？](https://blog.mlxb.cc/interview/agent/context-and-memory/) — 2026-10-13
 <!-- recent_posts ends -->
 
 </td>
