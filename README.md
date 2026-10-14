@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [隐私政策](https://blog.mlxb.cc/privacy/) — 2026-10-13<br>
-• [AI 工程问答：学习路线与公开资料](https://blog.mlxb.cc/interview/infra-roadmap/) — 2026-10-13<br>
-• [怎样评测 Agent？为什么最终答案正确还不够？](https://blog.mlxb.cc/interview/agent/agent-evaluation/) — 2026-10-13<br>
-• [Agent 反复调用工具、费用上涨，怎么限制和排查？](https://blog.mlxb.cc/interview/agent/budget-and-fallback/) — 2026-10-13<br>
-• [Context window、会话状态和长期记忆有什么区别？](https://blog.mlxb.cc/interview/agent/context-and-memory/) — 2026-10-13
+• [Agent 面经来源与近期热度排序](https://blog.mlxb.cc/interview/agent-sources/) — 2026-10-14<br>
+• [AI 工程问答：学习路线与公开资料](https://blog.mlxb.cc/interview/infra-roadmap/) — 2026-10-14<br>
+• [Agent 变慢或卡住，怎样用 Trace 定位？](https://blog.mlxb.cc/interview/agent/agent-latency/) — 2026-10-14<br>
+• [AI Coding 怎么用？怎样证明 AI 写的代码符合需求？](https://blog.mlxb.cc/interview/agent/ai-coding-verification/) — 2026-10-14<br>
+• [评测答对率很高，线上还会错，怎样做答案检测和拒答？](https://blog.mlxb.cc/interview/agent/answer-verification/) — 2026-10-14
 <!-- recent_posts ends -->
 
 </td>
