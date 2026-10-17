@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [A2A 的 Task 和 Artifact 怎样支持跨 Agent 长任务？](https://blog.mlxb.cc/interview/agent/a2a-task-protocol/) — 2026-10-15<br>
-• [Python Agent 的 async、线程和进程怎样选择？](https://blog.mlxb.cc/interview/agent/agent-concurrency/) — 2026-10-15<br>
-• [怎样评测 Agent？为什么最终答案正确还不够？](https://blog.mlxb.cc/interview/agent/agent-evaluation/) — 2026-10-15<br>
-• [多个 Agent 的结论互相矛盾，怎样收敛？](https://blog.mlxb.cc/interview/agent/agent-disagreement/) — 2026-10-15<br>
-• [Agent 变慢或卡住，怎样用 Trace 定位？](https://blog.mlxb.cc/interview/agent/agent-latency/) — 2026-10-15
+• [面经来源与近期热度排序](https://blog.mlxb.cc/interview/agent-sources/) — 2026-10-16<br>
+• [A/B 测试系统怎样分流和统计，避免把流量差异当成效果提升？](https://blog.mlxb.cc/interview/agent/ab-test-design/) — 2026-10-16<br>
+• [怎样证明 Agent 项目有业务价值？完成率提高就一定值得上线吗？](https://blog.mlxb.cc/interview/agent/agent-business-value/) — 2026-10-16<br>
+• [每天十几万次 Agent 请求怎样扩容？为什么日均 QPS 不够用？](https://blog.mlxb.cc/interview/agent/agent-capacity-planning/) — 2026-10-16<br>
+• [只有简陋 PRD，要求一周交付 App，应该怎样推进？](https://blog.mlxb.cc/interview/agent/ambiguous-prd-delivery/) — 2026-10-16
 <!-- recent_posts ends -->
 
 </td>
