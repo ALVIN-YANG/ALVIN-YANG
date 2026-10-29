@@ -20,10 +20,10 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 
 <!-- recent_posts starts -->
 • [OpenClaw 流式语音：首句延迟优化复盘](https://blog.mlxb.cc/ai/openclaw-streaming-voice-latency/) — 2026-10-27<br>
-• [面经来源与近期热度排序](https://blog.mlxb.cc/interview/agent-sources/) — 2026-10-16<br>
-• [A/B 测试系统怎样分流和统计，避免把流量差异当成效果提升？](https://blog.mlxb.cc/interview/agent/ab-test-design/) — 2026-10-16<br>
-• [怎样证明 Agent 项目有业务价值？完成率提高就一定值得上线吗？](https://blog.mlxb.cc/interview/agent/agent-business-value/) — 2026-10-16<br>
-• [每天十几万次 Agent 请求怎样扩容？为什么日均 QPS 不够用？](https://blog.mlxb.cc/interview/agent/agent-capacity-planning/) — 2026-10-16
+• [长上下文失效：7 个实用做法](https://blog.mlxb.cc/ai/long-context-reliability-notes/) — 2026-10-14<br>
+• [隐私政策](https://blog.mlxb.cc/privacy/) — 2026-10-13<br>
+• [AI 降智检测](https://blog.mlxb.cc/tools/ai-probe/) — 2026-10-13<br>
+• [AI Agent 怎么做评测：别只看最后一句回答](https://blog.mlxb.cc/ai/agent-evaluation-observability/) — 2026-10-12
 <!-- recent_posts ends -->
 
 </td>
