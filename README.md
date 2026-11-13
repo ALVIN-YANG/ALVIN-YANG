@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [宿主机内的独立进程间通信](https://blog.mlxb.cc/architecture/ipc-same-host-selection/) — 2026-11-13<br>
 • [OpenClaw 记忆系统拆解：存储、写入、召回与遗忘](https://blog.mlxb.cc/claw/openclaw/9-memory-system-deep-dive/) — 2026-11-09<br>
 • [OpenClaw 流式语音：首句延迟优化复盘](https://blog.mlxb.cc/ai/openclaw-streaming-voice-latency/) — 2026-10-27<br>
 • [长上下文失效：7 个实用做法](https://blog.mlxb.cc/ai/long-context-reliability-notes/) — 2026-10-14<br>
-• [隐私政策](https://blog.mlxb.cc/privacy/) — 2026-10-13<br>
-• [AI 降智检测](https://blog.mlxb.cc/tools/ai-probe/) — 2026-10-13
+• [隐私政策](https://blog.mlxb.cc/privacy/) — 2026-10-13
 <!-- recent_posts ends -->
 
 </td>
