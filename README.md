@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [宿主机内的独立进程间通信](https://blog.mlxb.cc/architecture/ipc-same-host-selection/) — 2026-11-13<br>
-• [OpenClaw 记忆系统拆解：存储、写入、召回与遗忘](https://blog.mlxb.cc/claw/openclaw/9-memory-system-deep-dive/) — 2026-11-09<br>
-• [OpenClaw 流式语音：首句延迟优化复盘](https://blog.mlxb.cc/ai/openclaw-streaming-voice-latency/) — 2026-10-27<br>
-• [长上下文失效：7 个实用做法](https://blog.mlxb.cc/ai/long-context-reliability-notes/) — 2026-10-14<br>
-• [隐私政策](https://blog.mlxb.cc/privacy/) — 2026-10-13
+• [Mem0 记忆层拆解：写入、检索与偏好冲突](https://blog.mlxb.cc/memory-projects/mem0/) — 2026-11-15<br>
+• [CrewAI：用角色、任务和 Flow 组织 Agent 工作](https://blog.mlxb.cc/agent-frameworks/crewai/) — 2026-11-14<br>
+• [OpenAI Agents SDK：用 Age...unner 和 Handoff 跑通执行循环](https://blog.mlxb.cc/agent-frameworks/openai-agents-sdk/) — 2026-11-14<br>
+• [Claude Agent SDK：把 Claude Code 的执行循环接进自己的程序](https://blog.mlxb.cc/agent-frameworks/claude-agent-sdk/) — 2026-11-14<br>
+• [AutoGen：用消息和团队组织多 Agent 协作](https://blog.mlxb.cc/agent-frameworks/autogen/) — 2026-11-14
 <!-- recent_posts ends -->
 
 </td>
