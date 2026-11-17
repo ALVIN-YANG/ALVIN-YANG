@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
-• [Mem0 记忆层拆解：写入、检索与偏好冲突](https://blog.mlxb.cc/memory-projects/mem0/) — 2026-11-15<br>
-• [CrewAI：用角色、任务和 Flow 组织 Agent 工作](https://blog.mlxb.cc/agent-frameworks/crewai/) — 2026-11-14<br>
-• [OpenAI Agents SDK：用 Age...unner 和 Handoff 跑通执行循环](https://blog.mlxb.cc/agent-frameworks/openai-agents-sdk/) — 2026-11-14<br>
-• [Claude Agent SDK：把 Claude Code 的执行循环接进自己的程序](https://blog.mlxb.cc/agent-frameworks/claude-agent-sdk/) — 2026-11-14<br>
-• [AutoGen：用消息和团队组织多 Agent 协作](https://blog.mlxb.cc/agent-frameworks/autogen/) — 2026-11-14
+• [Mem0 记忆层拆解：写入、检索与偏好冲突](https://blog.mlxb.cc/memory-projects/mem0/) — 2026-11-17<br>
+• [混合检索原理：语义、BM25、实体、时间与融合评分](https://blog.mlxb.cc/ai/hybrid-retrieval-principles/) — 2026-11-17<br>
+• [Agent 记忆系统原理：六个环节看懂主流方案](https://blog.mlxb.cc/ai/agent-memory-principles/) — 2026-11-17<br>
+• [Agent 记忆方案全景：六种产品方向与主流实现](https://blog.mlxb.cc/ai/agent-memory-landscape/) — 2026-11-17<br>
+• [CrewAI：用角色、任务和 Flow 组织 Agent 工作](https://blog.mlxb.cc/agent-frameworks/crewai/) — 2026-11-14
 <!-- recent_posts ends -->
 
 </td>
