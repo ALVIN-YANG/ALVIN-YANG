@@ -20,10 +20,10 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 
 <!-- recent_posts starts -->
 • [Agent 记忆系统：原理、方案与场景选型](https://blog.mlxb.cc/ai/agent-memory-principles/) — 2026-11-18<br>
-• [Context Engineering 怎么做：别把所有信息都塞给模型](https://blog.mlxb.cc/ai/context-engineering-guide/) — 2026-11-18<br>
-• [混合检索算法：向量、BM25、RRF 与重排](https://blog.mlxb.cc/ai/hybrid-retrieval-principles/) — 2026-11-18<br>
-• [Mem0 记忆层拆解：写入、检索与偏好冲突](https://blog.mlxb.cc/memory-projects/mem0/) — 2026-11-17<br>
-• [CrewAI：用角色、任务和 Flow 组织 Agent 工作](https://blog.mlxb.cc/agent-frameworks/crewai/) — 2026-11-14
+• [Agent 评测、安全与发布：从真实结果到上线门槛](https://blog.mlxb.cc/ai/agent-evaluation-security-release/) — 2026-11-18<br>
+• [Agent 工具与运行环境：权限、幂等、沙箱与决策模型](https://blog.mlxb.cc/ai/agent-tools-runtime/) — 2026-11-18<br>
+• [Agent 架构与执行循环：Workflow、单 Agent 与多 Agent](https://blog.mlxb.cc/ai/agent-architecture-execution-loop/) — 2026-11-18<br>
+• [Agent 框架选型：LangGraph、AutoGen、CrewAI 与三套 SDK](https://blog.mlxb.cc/agent-frameworks/) — 2026-11-18
 <!-- recent_posts ends -->
 
 </td>
