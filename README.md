@@ -19,11 +19,11 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 **Recent writing**
 
 <!-- recent_posts starts -->
+• [QueryAtlas 演示](https://blog.mlxb.cc/projects/queryatlas-demo/) — 2026-11-25<br>
+• [从一笔订单到一次推荐：图解大数据处理全流程](https://blog.mlxb.cc/architecture/big-data-processing-flow/) — 2026-11-25<br>
 • [Agent 记忆系统：原理、方案与场景选型](https://blog.mlxb.cc/ai/agent-memory-principles/) — 2026-11-18<br>
 • [Agent 评测、安全与发布：从真实结果到上线门槛](https://blog.mlxb.cc/ai/agent-evaluation-security-release/) — 2026-11-18<br>
-• [Agent 工具与运行环境：权限、幂等、沙箱与决策模型](https://blog.mlxb.cc/ai/agent-tools-runtime/) — 2026-11-18<br>
-• [Agent 架构与执行循环：Workflow、单 Agent 与多 Agent](https://blog.mlxb.cc/ai/agent-architecture-execution-loop/) — 2026-11-18<br>
-• [Agent 框架选型：LangGraph、AutoGen、CrewAI 与三套 SDK](https://blog.mlxb.cc/agent-frameworks/) — 2026-11-18
+• [Agent 工具与运行环境：权限、幂等、沙箱与决策模型](https://blog.mlxb.cc/ai/agent-tools-runtime/) — 2026-11-18
 <!-- recent_posts ends -->
 
 </td>
