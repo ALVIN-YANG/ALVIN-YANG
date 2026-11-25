@@ -39,6 +39,14 @@ class ProfileUpdateTests(unittest.TestCase):
         self.assertEqual([post.title for post in posts], ["最新文章", "周报"])
         self.assertTrue(all(post.updated.tzinfo is not None for post in posts))
 
+    def test_select_posts_excludes_queryatlas_demo(self) -> None:
+        posts = [
+            Post("排除项", "https://blog.mlxb.cc/projects/queryatlas-demo/", datetime(2026, 9, 16, tzinfo=timezone.utc)),
+            Post("保留项", "https://blog.mlxb.cc/ai/keep/", datetime(2026, 9, 15, tzinfo=timezone.utc)),
+        ]
+
+        self.assertEqual([post.title for post in select_posts(posts)], ["保留项"])
+
     def test_select_posts_uses_five_latest_articles_not_ai_news_index(self) -> None:
         posts = [
             Post("AI News", "https://blog.mlxb.cc/ai-news/", datetime(2026, 9, 16, tzinfo=timezone.utc)),

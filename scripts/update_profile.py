@@ -78,7 +78,11 @@ def truncate(title: str, limit: int = 48) -> str:
 
 def select_posts(posts: list[Post]) -> list[Post]:
     ordered = sorted(posts, key=lambda post: normalize_datetime(post.updated), reverse=True)
-    return [post for post in ordered if "/ai-news/" not in post.url][:5]
+    return [
+        post
+        for post in ordered
+        if "/ai-news/" not in post.url and "/projects/queryatlas-demo/" not in post.url
+    ][:5]
 
 
 def render(posts: list[Post]) -> str:
