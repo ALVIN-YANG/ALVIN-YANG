@@ -20,10 +20,10 @@ I focus on permissions, request routing, safe changes, and recovery when systems
 
 <!-- recent_posts starts -->
 • [从一笔订单到一次推荐：图解大数据处理全流程](https://blog.mlxb.cc/architecture/big-data-processing-flow/) — 2026-11-26<br>
-• [Agent 记忆系统：原理、方案与场景选型](https://blog.mlxb.cc/ai/agent-memory-principles/) — 2026-11-18<br>
-• [Agent 工具与运行环境：权限、幂等、沙箱与决策模型](https://blog.mlxb.cc/ai/agent-tools-runtime/) — 2026-11-18<br>
-• [Agent 评测、安全与发布：从真实结果到上线门槛](https://blog.mlxb.cc/ai/agent-evaluation-security-release/) — 2026-11-18<br>
-• [Agent 架构与执行循环：Workflow、单 Agent 与多 Agent](https://blog.mlxb.cc/ai/agent-architecture-execution-loop/) — 2026-11-18
+• [IPv4 地址范围与作用](https://blog.mlxb.cc/network/ipv4-address-ranges/) — 2026-11-26<br>
+• [[Git] 22 端口被网络代理禁用](https://blog.mlxb.cc/network/git-ssh-over-https/) — 2026-11-26<br>
+• [从 TCP 到 HTTP/3：连接、加密与应用协议](https://blog.mlxb.cc/network/connection-and-protocols/) — 2026-11-26<br>
+• [输入网址后，数据包经历了什么：网络基础与完整链路](https://blog.mlxb.cc/network/packet-journey/) — 2026-11-26
 <!-- recent_posts ends -->
 
 </td>
